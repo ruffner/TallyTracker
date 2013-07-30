@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tally Tracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="zero">0</string>
+    <string name="label">Label</string>
+    <string name="add_tally">New tally</string>
+    <string name="name">Name:</string>
+    <string name="initial_value">Initial:</string><string name="tally_name_placeholder">Tally name</string><string name="initial_value_placeholder">Initial value</string>
+
+</resources>
