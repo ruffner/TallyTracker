@@ -27,7 +27,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:onClick="decrement"
-        android:text="@string/minus" />
+        android:text="@string/minus"
+        android:textAppearance="@android:style/TextAppearance.Large"/>
 
     <TextView
         android:id="@+id/count"
@@ -42,6 +43,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:onClick="increment"
-        android:text="@string/plus" />
+        android:text="@string/plus"
+        android:textAppearance="@android:style/TextAppearance.Large"/>
 
 </LinearLayout>
